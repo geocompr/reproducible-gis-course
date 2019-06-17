@@ -1,2 +1,13 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
 # reproducible-gis-course
-Course materials for 2 hour lecture and 3 hour practical on reproducible geographic informaton science
+
+<!-- badges: start -->
+
+<!-- badges: end -->
+
+Course material for event 2020-06-22 for ~30 people.
+
+Will introduce a number of topics taught in *Geocomputation with R*
+including sf, spatial operations and geometric operations.

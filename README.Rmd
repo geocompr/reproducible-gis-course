@@ -1,0 +1,21 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# reproducible-gis-course
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+Course material for event 2020-06-22 for ~30 people.
+
+Will introduce a number of topics taught in *Geocomputation with R* including sf, spatial operations and geometric operations.
